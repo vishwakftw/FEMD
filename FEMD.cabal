@@ -5,11 +5,11 @@ name:                FEMD
 version:             0.1.0.0
 synopsis:            FEMD - A RogueLike designed for Principles of Programming Languages - II in Haskell
 -- description:         
-homepage:            github.com/DictatorXBlade/FEMD/
+homepage:            github.com/vishwakftw/FEMD/
 license:             MIT
 license-file:        LICENSE
 author:              N.Venkatasubrahmanian & S.Vishwak
-maintainer:          ee14btech11018@iith.ac.in
+maintainer:          cs15btech11043@iith.ac.in
 -- copyright:           
 category:            Game
 build-type:          Simple
